@@ -1,0 +1,2 @@
+# scribemate
+Scribe Management Application
